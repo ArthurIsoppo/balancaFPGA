@@ -1,2 +1,3 @@
-# balancaFPGA
-Trabalho de SD, tentando solucinar a questão que a TecnoSenior nos trouxe
+# Sensor de Monitoramento de Variacao de Massa
+
+    Este trabalho foi feito para cumprir uma dificuldade que a empresa Tecnosenior estava enfrentando. O desafio era criar um sensor que avisasse quando o fogao estiver sendo utilizado. Nossa solução foi fazer o Sensor de Monitoramento de Variacao de Massa (SMVM), ele manda um alerta(acende um led) quando a forca exercida em sua celula de carga diminui, sendo possivel definir qual a sensibilidade e quantidade de verificações feitas.
